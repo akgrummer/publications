@@ -4,91 +4,29 @@ hide:
 title: "Framework"
 ---
 
-# A framework for technical documentation
+1. Mar. 2025 & ``Overview of the front-end electronics of CMS HGCAL - including readout and powering", A. Grummer on behalf of the CMS Collaboration, EPJ Web of Conferences 320, 00067 (2025) https://doi.org/10.1051/epjconf/202532000067\\
 
-This is built with [mkdocs](https://www.mkdocs.org). But a great place to start is [Material for Docs](https://squidfunk.github.io/mkdocs-material/getting-started/)
+2. Oct. 2024 & ``Search for a new heavy scalar boson decaying into a Higgs boson and a new scalar particle in the four b-quarks final state using proton-proton collisions at sqrt(s) = 13 TeV", CMS Physics Analysis Summary (CMS-PAS-HIG-20-012), final stage of collaboration review, to be submitted to Phys. Rev. D. https://cds.cern.ch/record/2914871\\
 
-I built a python venv with `python3 -m venv ~/python_venvs/mkdocs`. Which is activated with `source ~/python_venvs/mkdocs/bin/activate`.[^1]
-[^1]: Python venv docs: [docs.python.org](https://docs.python.org/3/library/venv.html#creating-virtual-environments)
+3. Aug. 2021 & ``Measurements of Sensor Radiation Damage in the ATLAS Inner Detector using Leakage Currents," ATLAS Collaboration, JINST 16 (2021) P08025 https://doi.org/10.1088/1748-0221/16/08/P08025\\
 
-## Latex math with MathJax
+4. Feb. 2021 & ``Prediction of Leakage Current and Depletion Voltage in Silicon Detectors under Extra-Terrestrial Radiation Conditions," A. Grummer, M.R. Hoeferkamp, and S. Seidel, Frontiers in Physics, Oct. 2020, https://www.frontiersin.org/articles/10.3389/fphy.2021.617026\\
 
-$$
-\operatorname{ker} f=\{g\in G:f(g)=e_{H}\}{\mbox{.}}
-$$
+5. Jan. 2021 & ``Leptonic Decays of Light Hadronic States and Rare B Decays," A. Grummer on behalf of the ATLAS and CMS Collaborations, Proc. Sci. (LHCP2020) 113, https://pos.sissa.it/382/113/\\
 
-The homomorphism $f$ is injective if and only if its kernel is only the 
-singleton set $e_G$, because otherwise $\exists a,b\in G$ with $a\neq b$ such 
-that $f(a)=f(b)$.
+6. May 2020 & ``An Instrument for Precision Controlled Radiation Exposures, Charged Beam Profile Measurement, and Real-Time Fluence Monitoring Beyond $10^{16}$~$\textrm{n}_\textrm{eq}$/cm$^{2}$," M.R. Hoeferkamp, J.S.T. Wickramasinghe, A. Grummer, I. Rajen, and S. Seidel, J. Instrum. 15 (2020), https://doi.org/10.1088/1748-0221/15/05/P05024\\
 
-## Code blocks
+7. Nov. 2019& ``Measurement of Radiation Damage through Leakage Current Monitoring of the ATLAS Pixel Detector, ATLAS Collaboration, ATL-INDET-PUB-2019-001 (2019), https://cds.cern.ch/record/2699903/\\
 
-``` py title="Python"
-print("hello")
-```
+8. Jan. 2019& ``Study of the Rare Decays of $B_s^0$ and $B^0$ Mesons into Muon Pairs using Data Collected During 2015 and 2016 with the ATLAS Detector," ATLAS Collaboration, J. High Energy Phys. 04 (2019) 098, https://doi.org/10.1007/JHEP04(2019)098\\
 
-``` cpp title="C++"
-printf("hello\n")
-```
+9. Aug. 2019 & ``Operational Experience with and Performance of the ATLAS Pixel Detector with Emphasis on Radiation Damage," A. Grummer on behalf of the ATLAS Collaboration, Pisa Meeting on Advanced Detectors Proceedings, Nucl. Instrum. Methods A, 2018, https://doi.org/10.1016/j.nima.2018.09.002\\
 
-## Admonitions
+10. May 2018 & ``Application of p-i-n Photodiodes to Charged Particle Fluence Measurements Beyond  $10^{15}$ 1-MeV-neutron-equivalent/cm$^2$," M.R. Hoeferkamp, A. Grummer et al., Nucl. Instrum. Methods A 890 (108-111), 2018, https://doi.org/10.1016/j.nima.2018.02.070 \\
 
-!!! note
+11. Mar. 2018 & ``A Radiation Tolerant Light Pulser for Particle Physics Applications," A. Grummer et al., Nucl. Instrum. Methods A 883 (29-32), 2018, https://doi.org/10.1016/j.nima.2017.11.020\\
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+CMS & ATLAS Authorship lists, full list of publications (816 as of Sep. 2025):
+Aidan Grummer on INSPIRE HEP: http://inspirehep.net/search?ln=en\&ln=en\&p=find+a.+grummer
+Aidan Grummer on ORCID: https://orcid.org/0000-0003-2752-1183
 
-!!! note "This is a custom title"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-!!! note ""
-
-    This block has no title
-
-??? quote "A hidden quote"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-???+ quote "A quote that can be hidden"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-!!! question "A question"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-??? warning "A hidden answer"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-??? example "A nested example"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
-
-    ??? danger "nested"
-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-        nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-        massa, nec semper lorem quam in massa.
-
-        ??? bug "double nested"
-
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-            nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-            massa, nec semper lorem quam in massa.
-
-more examples found [here](https://squidfunk.github.io/mkdocs-material/reference/admonitions/#supported-types)
