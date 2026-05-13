@@ -4,7 +4,7 @@ hide:
 title: "Publications"
 ---
 
-1. Apr. 2026 & "Search for a new heavy scalar boson decaying into a Higgs boson and a new scalar particle in the four b-quarks final state using proton-proton collisions at $\sqrt{s}=13\,TeV$"", CMS Collaboration, CMS-HIG-20-012, submitted to Phys. Rev. D. [https://arxiv.org/abs/2605.02848](https://arxiv.org/abs/2605.02848)
+1. Apr. 2026 & "Search for a new heavy scalar resonance decaying into a Higgs boson and a new scalar particle in the bbbb final state using proton-proton collisions at $\sqrt{s}=13$ TeV", CMS Collaboration, CMS-HIG-20-012, submitted to Phys. Rev. D. [https://arxiv.org/abs/2605.02848](https://arxiv.org/abs/2605.02848)
 
 2. Mar. 2025 & "Overview of the front-end electronics of CMS HGCAL - including readout and powering", A. Grummer on behalf of the CMS Collaboration, EPJ Web of Conferences 320, 00067 (2025) [https://doi.org/10.1051/epjconf/202532000067](https://doi.org/10.1051/epjconf/202532000067)
 
