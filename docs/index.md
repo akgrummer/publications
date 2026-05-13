@@ -27,6 +27,6 @@ title: "Publications"
 11. Mar. 2018 & "A Radiation Tolerant Light Pulser for Particle Physics Applications," A. Grummer et al., Nucl. Instrum. Methods A 883 (29-32), 2018, [https://doi.org/10.1016/j.nima.2017.11.020](https://doi.org/10.1016/j.nima.2017.11.020)
 
 CMS & ATLAS Authorship lists, full list of publications (816 as of Mar. 2026):<br>
-Aidan Grummer on INSPIRE HEP: [http://inspirehep.net/search?ln=en\&ln=en\&p=find+a.+grummer](http://inspirehep.net/search?ln=en\&ln=en\&p=find+a.+grummer)<br>
+Aidan Grummer on INSPIRE HEP: [https://inspirehep.net/literature?q=A. Grummer](https://inspirehep.net/literature?q=A.%20Grummer)<br>
 Aidan Grummer on ORCID: [https://orcid.org/0000-0003-2752-1183](https://orcid.org/0000-0003-2752-1183)
 
